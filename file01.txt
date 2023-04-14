@@ -1,3 +1,4 @@
 count==1
 
 count == 2   master test
+count == 2   master=aaa
